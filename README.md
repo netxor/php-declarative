@@ -1,7 +1,7 @@
-# PHP exercises / hexlet.io
-SICP based exercises on PHP by using Declarative style of programming
+#PHP решения задач / hexlet.io
+Курс по декларативному программированию основанная на книге СИКП (Структура и Интерпретация Компьютерных Программ)
 
-# Contents
+### Содержание курса
 1. Hello World. 
 Цель: Написать свою первую программу и узнать про способы ее запуска
 
