@@ -3,7 +3,7 @@
 $number = 3;
 
 $cube = function($number) {
-  return $number * $number * $number;
+  return number * number * number;
 };
 
 
